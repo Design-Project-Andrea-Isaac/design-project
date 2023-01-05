@@ -81,3 +81,13 @@ body{
 .icon4 {
     background-color: #00aba9;
 }
+.small-img{
+    border: 5px solid #e6e6e6;
+    width:75px;
+    height:75px;
+}
+@media (min-width: 1200px) {
+    .right-column{
+        margin-top:23px;
+    }
+}
