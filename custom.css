@@ -19,6 +19,7 @@ body{
     border-radius:100%;
     height:115px;
     width:115px;
+    /*margin: 5px;*/
     /*margin-left:75px;*/
 }
 .test2{
@@ -27,6 +28,8 @@ body{
     border-radius:100%;
     height:115px;
     width:115px;
+    /*margin: 10px;*/
+
     /*margin-right:75px;*/
 }
 .test3{
@@ -35,6 +38,8 @@ body{
     border-radius:100%;
     height:115px;
     width:115px;
+    /*margin: 10px;*/
+
     /*margin-left:75px;*/
 }
 .test4{
@@ -43,6 +48,8 @@ body{
     border-radius:100%;
     height:115px;
     width:115px;
+    /*margin: 10px;*/
+
     /*margin-right:75px;*/
 }
 .circles{
